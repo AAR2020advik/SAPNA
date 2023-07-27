@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.infobox {
+  border: 1px solid #ccc;
+  padding: 10px;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.infobox-title {
+  margin: 0;
+  text-align: center;
+}
+
+.infobox-image {
+  display: block;
+  max-width: 100%;
+  margin: 10px auto;
+}
+
+.infobox-description {
+  text-align: justify;
+}
+
+.infobox-table {
+  width: 100%;
+}
+
+.infobox-table th {
+  text-align: left;
+  padding: 5px 10px;
+}
+
+.infobox-table td {
+  padding: 5px 10px;
+}
